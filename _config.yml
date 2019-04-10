@@ -17,7 +17,7 @@ title: Cristian Baños Yelmo
 email: cristianyelmo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Estudiante en CFGS 1ºDAW IES Polígono Sur
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://cristianby.github.io/" # the subpath of your site, e.g. /blog
 url: "https://github.com/CristianBY" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CristianBY
 
